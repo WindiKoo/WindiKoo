@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WindiKoo
-- 🌱 I’m currently learning JavaScript, React and Node.js
+- 🌱 I’m currently learning Rust
 - 💞️ I’m not looking to collaborate right now
 
 <!---
